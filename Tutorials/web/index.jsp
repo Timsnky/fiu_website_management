@@ -36,6 +36,9 @@ and open the template in the editor.
                         <li><a href="ch3/startExample/Controller">Start Example</a></li>
                         <li><a href="ch3/dataBean/Controller">Data Bean</a></li>
                         <li><a href="ch3/defaultValidate/Controller">Default Validation</a></li>
+                        <li><a href="ch3/sharedVariable/error/Controller">Shared Error</a></li>
+                        <li><a href="ch3/sharedVariable/Controller">Shared Variable</a></li>
+                        <li><a href="ch3/reorganised/Controller">Reorganised</a></li>
                     </ul>
                 </li>  
             </ul>

@@ -45,4 +45,31 @@
         <servlet-name>Ch3DefaultValidateController</servlet-name>
         <url-pattern>/ch3/defaultValidate/Controller</url-pattern>
     </servlet-mapping>
+    
+    <servlet>
+        <servlet-name>Ch3ShareVariableErrorController</servlet-name>
+        <servlet-class>ch3.sharedVariable.error.Controller</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Ch3ShareVariableErrorController</servlet-name>
+        <url-pattern>/ch3/sharedVariable/error/Controller</url-pattern>
+    </servlet-mapping>
+    
+    <servlet>
+        <servlet-name>Ch3SharedVariableController</servlet-name>
+        <servlet-class>ch3.sharedVariable.Controller</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Ch3SharedVariableController</servlet-name>
+        <url-pattern>/ch3/sharedVariable/Controller</url-pattern>
+    </servlet-mapping>
+    
+    <servlet>
+        <servlet-name>Ch3ReorganisedController</servlet-name>
+        <servlet-class>ch3.reorganised.Controller</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Ch3ReorganisedController</servlet-name>
+        <url-pattern>/ch3/reorganised/Controller</url-pattern>
+    </servlet-mapping>
 </web-app>
