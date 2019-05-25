@@ -9,12 +9,40 @@
             30
         </session-timeout>
     </session-config>
+    
     <servlet>
-        <servlet-name>Ch2Controller</servlet-name>
+        <servlet-name>Ch2ServletControllerController</servlet-name>
         <servlet-class>ch2.servletController.Controller</servlet-class>
     </servlet>
     <servlet-mapping>
-        <servlet-name>Ch2Controller</servlet-name>
+        <servlet-name>Ch2ServletControllerController</servlet-name>
         <url-pattern>/ch2/servletController/Controller</url-pattern>
+    </servlet-mapping>
+    
+    <servlet>
+        <servlet-name>Ch3StartExampleController</servlet-name>
+        <servlet-class>ch3.startExample.Controller</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Ch3StartExampleController</servlet-name>
+        <url-pattern>/ch3/startExample/Controller</url-pattern>
+    </servlet-mapping>
+    
+    <servlet>
+        <servlet-name>Ch3DataBeanController</servlet-name>
+        <servlet-class>ch3.dataBean.Controller</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Ch3DataBeanController</servlet-name>
+        <url-pattern>/ch3/dataBean/Controller</url-pattern>
+    </servlet-mapping>
+    
+    <servlet>
+        <servlet-name>Ch3DefaultValidateController</servlet-name>
+        <servlet-class>ch3.defaultValidate.Controller</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Ch3DefaultValidateController</servlet-name>
+        <url-pattern>/ch3/defaultValidate/Controller</url-pattern>
     </servlet-mapping>
 </web-app>

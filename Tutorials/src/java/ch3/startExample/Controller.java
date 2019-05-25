@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package ch2.servletController;
+package ch3.startExample;
 
 import java.io.IOException;
 import javax.servlet.RequestDispatcher;

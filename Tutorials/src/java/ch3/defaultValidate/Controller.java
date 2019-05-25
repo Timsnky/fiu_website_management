@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package ch2.servletController;
+package ch3.defaultValidate;
 
 import java.io.IOException;
 import javax.servlet.RequestDispatcher;
@@ -21,19 +21,24 @@ public class Controller extends HttpServlet {
     protected void doGet(HttpServletRequest request, 
             HttpServletResponse response) throws ServletException, IOException
     {
+        RequestDataDefault requestData = new RequestDataDefault();
+        requestData.setName(request.getParameter("name"));
+        requestData.setAddress(request.getParameter("address"));
+        request.getSession().setAttribute("userData", requestData);
+        
         String address;
     
         if(request.getParameter("confirmButton") != null)
         {
-            address = "Confirm.jsp";
+            address = "/ch3/dataBean/Confirm.jsp";
         }
         else if(request.getParameter("processButton") != null)
         {
-            address = "Process.jsp";
+            address = "/ch3/dataBean/Process.jsp";
         }
         else
         {
-            address = "Edit.jsp";
+            address = "/ch3/dataBean/Edit.jsp";
         }
 
         RequestDispatcher dispatcher = request.getRequestDispatcher(address);

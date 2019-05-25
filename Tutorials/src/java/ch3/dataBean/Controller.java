@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package ch2.servletController;
+package ch3.dataBean;
 
 import java.io.IOException;
 import javax.servlet.RequestDispatcher;
@@ -21,6 +21,11 @@ public class Controller extends HttpServlet {
     protected void doGet(HttpServletRequest request, 
             HttpServletResponse response) throws ServletException, IOException
     {
+        RequestData requestData = new RequestData();
+        requestData.setName(request.getParameter("name"));
+        requestData.setAddress(request.getParameter("address"));
+        request.getSession().setAttribute("userData", requestData);
+        
         String address;
     
         if(request.getParameter("confirmButton") != null)
