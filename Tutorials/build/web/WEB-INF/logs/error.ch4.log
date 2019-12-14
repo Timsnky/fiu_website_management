@@ -1,0 +1,807 @@
+
+INFO  org.apache.commmons.beanutils localhost-startStop-1
+      2019-06-09 16:37:44,758 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils localhost-startStop-1
+      2019-06-09 16:37:44,758 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-4
+      2019-06-09 16:37:46,083 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-4
+      2019-06-09 16:37:46,083 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils localhost-startStop-1
+      2019-06-13 18:51:49,642 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils localhost-startStop-1
+      2019-06-13 18:51:49,642 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-6
+      2019-06-13 18:51:53,563 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-6
+      2019-06-13 18:51:53,563 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-12
+      2019-06-13 18:53:21,565 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-12
+      2019-06-13 18:53:21,565 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-11
+      2019-06-13 18:53:40,705 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-11
+      2019-06-13 18:53:40,705 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-23
+      2019-06-13 18:56:10,498 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-23
+      2019-06-13 18:56:10,498 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-32
+      2019-06-13 18:56:33,387 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-32
+      2019-06-13 18:56:33,387 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-24
+      2019-06-13 18:56:33,818 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-24
+      2019-06-13 18:56:33,818 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-32
+      2019-06-13 18:58:08,524 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-32
+      2019-06-13 18:58:08,524 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-37
+      2019-06-13 18:58:54,283 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-37
+      2019-06-13 18:58:54,283 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-39
+      2019-06-13 19:02:18,429 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-39
+      2019-06-13 19:02:18,429 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-42
+      2019-06-13 19:02:41,424 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-42
+      2019-06-13 19:02:41,424 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-47
+      2019-06-13 19:03:58,777 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-47
+      2019-06-13 19:03:58,777 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-15
+      2019-06-13 19:04:04,949 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-15
+      2019-06-13 19:04:04,949 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-15
+      2019-06-13 19:04:07,147 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-15
+      2019-06-13 19:04:07,147 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-57
+      2019-06-13 19:06:15,695 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-57
+      2019-06-13 19:06:15,695 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-55
+      2019-06-13 19:06:17,347 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-55
+      2019-06-13 19:06:17,347 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-198
+      2019-06-14 01:19:07,940 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-198
+      2019-06-14 01:19:07,940 - Starting org.apache.commmons.beanutils
+ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper http-nio-8080-exec-192
+      2019-06-14 01:20:52,493 - Illegal connection port value 'PORT'
+ERROR bytesizebook.guide.ch4 http-nio-8080-exec-192
+      2019-06-14 01:20:52,498 - (invoke) Button method exception
+java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at shared.HelperBaseCh4.invokeButtonMethod(HelperBaseCh4.java:142)
+	at shared.HelperBaseCh4.executeButtonMethod(HelperBaseCh4.java:111)
+	at shared.HelperBaseCh4.executeButtonMethod(HelperBaseCh4.java:87)
+	at ch5.persistentData.ControllerHelper.doPost(ControllerHelper.java:50)
+	at ch5.persistentData.Controller.doPost(Controller.java:37)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:648)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:291)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:239)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.netbeans.modules.web.monitor.server.MonitorFilter.doFilter(MonitorFilter.java:393)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:239)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:217)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:106)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:502)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:142)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:79)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:616)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:88)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:518)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1091)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:673)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1500)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.run(NioEndpoint.java:1456)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.hibernate.exception.GenericJDBCException: Could not open connection
+	at org.hibernate.exception.internal.StandardSQLExceptionConverter.convert(StandardSQLExceptionConverter.java:54)
+	at org.hibernate.engine.jdbc.spi.SqlExceptionHelper.convert(SqlExceptionHelper.java:125)
+	at org.hibernate.engine.jdbc.spi.SqlExceptionHelper.convert(SqlExceptionHelper.java:110)
+	at org.hibernate.engine.jdbc.internal.LogicalConnectionImpl.obtainConnection(LogicalConnectionImpl.java:304)
+	at org.hibernate.engine.jdbc.internal.LogicalConnectionImpl.getConnection(LogicalConnectionImpl.java:169)
+	at org.hibernate.engine.transaction.internal.jdbc.JdbcTransaction.doBegin(JdbcTransaction.java:67)
+	at org.hibernate.engine.transaction.spi.AbstractTransactionImpl.begin(AbstractTransactionImpl.java:160)
+	at org.hibernate.internal.SessionImpl.beginTransaction(SessionImpl.java:1309)
+	at shared.HibernateHelper.updateDB(HibernateHelper.java:142)
+	at ch5.persistentData.ControllerHelper.processMethod(ControllerHelper.java:93)
+	... 35 more
+Caused by: java.sql.SQLException: Illegal connection port value 'PORT'
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:910)
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:2737)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:1553)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:285)
+	at java.sql.DriverManager.getConnection(DriverManager.java:664)
+	at java.sql.DriverManager.getConnection(DriverManager.java:208)
+	at org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl.getConnection(DriverManagerConnectionProviderImpl.java:173)
+	at org.hibernate.internal.AbstractSessionImpl$NonContextualJdbcConnectionAccess.obtainConnection(AbstractSessionImpl.java:279)
+	at org.hibernate.engine.jdbc.internal.LogicalConnectionImpl.obtainConnection(LogicalConnectionImpl.java:297)
+	... 41 more
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-204
+      2019-06-14 01:22:02,492 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-204
+      2019-06-14 01:22:02,492 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-209
+      2019-06-14 01:22:43,623 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-209
+      2019-06-14 01:22:43,623 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-198
+      2019-06-14 01:22:50,120 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-198
+      2019-06-14 01:22:50,120 - Starting org.apache.commmons.beanutils
+ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper http-nio-8080-exec-211
+      2019-06-14 01:24:38,833 - Communications link failure due to underlying exception: 
+
+** BEGIN NESTED EXCEPTION ** 
+
+java.net.ConnectException
+MESSAGE: Connection refused (Connection refused)
+
+STACKTRACE:
+
+java.net.ConnectException: Connection refused (Connection refused)
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at java.net.Socket.connect(Socket.java:538)
+	at java.net.Socket.<init>(Socket.java:434)
+	at java.net.Socket.<init>(Socket.java:244)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:173)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:268)
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:2745)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:1553)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:285)
+	at java.sql.DriverManager.getConnection(DriverManager.java:664)
+	at java.sql.DriverManager.getConnection(DriverManager.java:208)
+	at org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl.getConnection(DriverManagerConnectionProviderImpl.java:173)
+	at org.hibernate.internal.AbstractSessionImpl$NonContextualJdbcConnectionAccess.obtainConnection(AbstractSessionImpl.java:279)
+	at org.hibernate.engine.jdbc.internal.LogicalConnectionImpl.obtainConnection(LogicalConnectionImpl.java:297)
+	at org.hibernate.engine.jdbc.internal.LogicalConnectionImpl.getConnection(LogicalConnectionImpl.java:169)
+	at org.hibernate.engine.transaction.internal.jdbc.JdbcTransaction.doBegin(JdbcTransaction.java:67)
+	at org.hibernate.engine.transaction.spi.AbstractTransactionImpl.begin(AbstractTransactionImpl.java:160)
+	at org.hibernate.internal.SessionImpl.beginTransaction(SessionImpl.java:1309)
+	at shared.HibernateHelper.updateDB(HibernateHelper.java:142)
+	at ch5.persistentData.ControllerHelper.processMethod(ControllerHelper.java:93)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at shared.HelperBaseCh4.invokeButtonMethod(HelperBaseCh4.java:142)
+	at shared.HelperBaseCh4.executeButtonMethod(HelperBaseCh4.java:111)
+	at shared.HelperBaseCh4.executeButtonMethod(HelperBaseCh4.java:87)
+	at ch5.persistentData.ControllerHelper.doPost(ControllerHelper.java:50)
+	at ch5.persistentData.Controller.doPost(Controller.java:37)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:648)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:291)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:239)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.netbeans.modules.web.monitor.server.MonitorFilter.doFilter(MonitorFilter.java:393)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:239)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:217)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:106)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:502)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:142)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:79)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:616)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:88)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:518)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1091)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:673)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1500)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.run(NioEndpoint.java:1456)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+** END NESTED EXCEPTION **
+
+
+
+Last packet sent to the server was 0 ms ago.
+ERROR bytesizebook.guide.ch4 http-nio-8080-exec-211
+      2019-06-14 01:24:38,838 - (invoke) Button method exception
+java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at shared.HelperBaseCh4.invokeButtonMethod(HelperBaseCh4.java:142)
+	at shared.HelperBaseCh4.executeButtonMethod(HelperBaseCh4.java:111)
+	at shared.HelperBaseCh4.executeButtonMethod(HelperBaseCh4.java:87)
+	at ch5.persistentData.ControllerHelper.doPost(ControllerHelper.java:50)
+	at ch5.persistentData.Controller.doPost(Controller.java:37)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:648)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:291)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:239)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.netbeans.modules.web.monitor.server.MonitorFilter.doFilter(MonitorFilter.java:393)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:239)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:217)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:106)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:502)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:142)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:79)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:616)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:88)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:518)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1091)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:673)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1500)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.run(NioEndpoint.java:1456)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.hibernate.exception.JDBCConnectionException: Could not open connection
+	at org.hibernate.exception.internal.SQLStateConversionDelegate.convert(SQLStateConversionDelegate.java:131)
+	at org.hibernate.exception.internal.StandardSQLExceptionConverter.convert(StandardSQLExceptionConverter.java:49)
+	at org.hibernate.engine.jdbc.spi.SqlExceptionHelper.convert(SqlExceptionHelper.java:125)
+	at org.hibernate.engine.jdbc.spi.SqlExceptionHelper.convert(SqlExceptionHelper.java:110)
+	at org.hibernate.engine.jdbc.internal.LogicalConnectionImpl.obtainConnection(LogicalConnectionImpl.java:304)
+	at org.hibernate.engine.jdbc.internal.LogicalConnectionImpl.getConnection(LogicalConnectionImpl.java:169)
+	at org.hibernate.engine.transaction.internal.jdbc.JdbcTransaction.doBegin(JdbcTransaction.java:67)
+	at org.hibernate.engine.transaction.spi.AbstractTransactionImpl.begin(AbstractTransactionImpl.java:160)
+	at org.hibernate.internal.SessionImpl.beginTransaction(SessionImpl.java:1309)
+	at shared.HibernateHelper.updateDB(HibernateHelper.java:142)
+	at ch5.persistentData.ControllerHelper.processMethod(ControllerHelper.java:93)
+	... 35 more
+Caused by: com.mysql.jdbc.CommunicationsException: Communications link failure due to underlying exception: 
+
+** BEGIN NESTED EXCEPTION ** 
+
+java.net.ConnectException
+MESSAGE: Connection refused (Connection refused)
+
+STACKTRACE:
+
+java.net.ConnectException: Connection refused (Connection refused)
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at java.net.Socket.connect(Socket.java:538)
+	at java.net.Socket.<init>(Socket.java:434)
+	at java.net.Socket.<init>(Socket.java:244)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:173)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:268)
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:2745)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:1553)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:285)
+	at java.sql.DriverManager.getConnection(DriverManager.java:664)
+	at java.sql.DriverManager.getConnection(DriverManager.java:208)
+	at org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl.getConnection(DriverManagerConnectionProviderImpl.java:173)
+	at org.hibernate.internal.AbstractSessionImpl$NonContextualJdbcConnectionAccess.obtainConnection(AbstractSessionImpl.java:279)
+	at org.hibernate.engine.jdbc.internal.LogicalConnectionImpl.obtainConnection(LogicalConnectionImpl.java:297)
+	at org.hibernate.engine.jdbc.internal.LogicalConnectionImpl.getConnection(LogicalConnectionImpl.java:169)
+	at org.hibernate.engine.transaction.internal.jdbc.JdbcTransaction.doBegin(JdbcTransaction.java:67)
+	at org.hibernate.engine.transaction.spi.AbstractTransactionImpl.begin(AbstractTransactionImpl.java:160)
+	at org.hibernate.internal.SessionImpl.beginTransaction(SessionImpl.java:1309)
+	at shared.HibernateHelper.updateDB(HibernateHelper.java:142)
+	at ch5.persistentData.ControllerHelper.processMethod(ControllerHelper.java:93)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at shared.HelperBaseCh4.invokeButtonMethod(HelperBaseCh4.java:142)
+	at shared.HelperBaseCh4.executeButtonMethod(HelperBaseCh4.java:111)
+	at shared.HelperBaseCh4.executeButtonMethod(HelperBaseCh4.java:87)
+	at ch5.persistentData.ControllerHelper.doPost(ControllerHelper.java:50)
+	at ch5.persistentData.Controller.doPost(Controller.java:37)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:648)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:291)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:239)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.netbeans.modules.web.monitor.server.MonitorFilter.doFilter(MonitorFilter.java:393)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:239)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:217)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:106)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:502)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:142)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:79)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:616)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:88)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:518)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1091)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:673)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1500)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.run(NioEndpoint.java:1456)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+** END NESTED EXCEPTION **
+
+
+
+Last packet sent to the server was 0 ms ago.
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:2820)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:1553)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:285)
+	at java.sql.DriverManager.getConnection(DriverManager.java:664)
+	at java.sql.DriverManager.getConnection(DriverManager.java:208)
+	at org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl.getConnection(DriverManagerConnectionProviderImpl.java:173)
+	at org.hibernate.internal.AbstractSessionImpl$NonContextualJdbcConnectionAccess.obtainConnection(AbstractSessionImpl.java:279)
+	at org.hibernate.engine.jdbc.internal.LogicalConnectionImpl.obtainConnection(LogicalConnectionImpl.java:297)
+	... 41 more
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-214
+      2019-06-14 01:26:24,149 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-214
+      2019-06-14 01:26:24,149 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-217
+      2019-06-14 01:26:26,283 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-217
+      2019-06-14 01:26:26,283 - Starting org.apache.commmons.beanutils
+ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper http-nio-8080-exec-225
+      2019-06-14 01:28:35,485 - Table 'mydb.RequestDataPersistent' doesn't exist
+ERROR bytesizebook.guide.ch4 http-nio-8080-exec-225
+      2019-06-14 01:28:35,490 - (invoke) Button method exception
+java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at shared.HelperBaseCh4.invokeButtonMethod(HelperBaseCh4.java:142)
+	at shared.HelperBaseCh4.executeButtonMethod(HelperBaseCh4.java:111)
+	at shared.HelperBaseCh4.executeButtonMethod(HelperBaseCh4.java:87)
+	at ch5.persistentData.ControllerHelper.doPost(ControllerHelper.java:50)
+	at ch5.persistentData.Controller.doPost(Controller.java:37)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:648)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:291)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:239)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.netbeans.modules.web.monitor.server.MonitorFilter.doFilter(MonitorFilter.java:393)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:239)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:217)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:106)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:502)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:142)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:79)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:616)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:88)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:518)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1091)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:673)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1500)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.run(NioEndpoint.java:1456)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.hibernate.exception.SQLGrammarException: Table 'mydb.RequestDataPersistent' doesn't exist
+	at org.hibernate.exception.internal.SQLStateConversionDelegate.convert(SQLStateConversionDelegate.java:122)
+	at org.hibernate.exception.internal.StandardSQLExceptionConverter.convert(StandardSQLExceptionConverter.java:49)
+	at org.hibernate.engine.jdbc.spi.SqlExceptionHelper.convert(SqlExceptionHelper.java:125)
+	at org.hibernate.engine.jdbc.spi.SqlExceptionHelper.convert(SqlExceptionHelper.java:110)
+	at org.hibernate.engine.jdbc.internal.proxy.AbstractStatementProxyHandler.continueInvocation(AbstractStatementProxyHandler.java:129)
+	at org.hibernate.engine.jdbc.internal.proxy.AbstractProxyHandler.invoke(AbstractProxyHandler.java:81)
+	at com.sun.proxy.$Proxy55.executeUpdate(Unknown Source)
+	at org.hibernate.id.IdentityGenerator$GetGeneratedKeysDelegate.executeAndExtract(IdentityGenerator.java:96)
+	at org.hibernate.id.insert.AbstractReturningDelegate.performInsert(AbstractReturningDelegate.java:58)
+	at org.hibernate.persister.entity.AbstractEntityPersister.insert(AbstractEntityPersister.java:2765)
+	at org.hibernate.persister.entity.AbstractEntityPersister.insert(AbstractEntityPersister.java:3276)
+	at org.hibernate.action.internal.EntityIdentityInsertAction.execute(EntityIdentityInsertAction.java:81)
+	at org.hibernate.engine.spi.ActionQueue.execute(ActionQueue.java:362)
+	at org.hibernate.engine.spi.ActionQueue.addResolvedEntityInsertAction(ActionQueue.java:203)
+	at org.hibernate.engine.spi.ActionQueue.addInsertAction(ActionQueue.java:183)
+	at org.hibernate.engine.spi.ActionQueue.addAction(ActionQueue.java:167)
+	at org.hibernate.event.internal.AbstractSaveEventListener.addInsertAction(AbstractSaveEventListener.java:320)
+	at org.hibernate.event.internal.AbstractSaveEventListener.performSaveOrReplicate(AbstractSaveEventListener.java:287)
+	at org.hibernate.event.internal.AbstractSaveEventListener.performSave(AbstractSaveEventListener.java:193)
+	at org.hibernate.event.internal.AbstractSaveEventListener.saveWithGeneratedId(AbstractSaveEventListener.java:126)
+	at org.hibernate.event.internal.DefaultSaveOrUpdateEventListener.saveWithGeneratedOrRequestedId(DefaultSaveOrUpdateEventListener.java:204)
+	at org.hibernate.event.internal.DefaultSaveOrUpdateEventListener.entityIsTransient(DefaultSaveOrUpdateEventListener.java:189)
+	at org.hibernate.event.internal.DefaultSaveOrUpdateEventListener.performSaveOrUpdate(DefaultSaveOrUpdateEventListener.java:114)
+	at org.hibernate.event.internal.DefaultSaveOrUpdateEventListener.onSaveOrUpdate(DefaultSaveOrUpdateEventListener.java:90)
+	at org.hibernate.internal.SessionImpl.fireSaveOrUpdate(SessionImpl.java:641)
+	at org.hibernate.internal.SessionImpl.saveOrUpdate(SessionImpl.java:633)
+	at org.hibernate.internal.SessionImpl.saveOrUpdate(SessionImpl.java:629)
+	at shared.HibernateHelper.updateDB(HibernateHelper.java:144)
+	at ch5.persistentData.ControllerHelper.processMethod(ControllerHelper.java:93)
+	... 35 more
+Caused by: com.mysql.jdbc.exceptions.MySQLSyntaxErrorException: Table 'mydb.RequestDataPersistent' doesn't exist
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:936)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:2934)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:1616)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:1708)
+	at com.mysql.jdbc.Connection.execSQL(Connection.java:3255)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1293)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1566)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1480)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1465)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.hibernate.engine.jdbc.internal.proxy.AbstractStatementProxyHandler.continueInvocation(AbstractStatementProxyHandler.java:122)
+	... 59 more
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-227
+      2019-06-14 01:38:26,574 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-227
+      2019-06-14 01:38:26,574 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-225
+      2019-06-14 01:38:38,854 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-225
+      2019-06-14 01:38:38,854 - Starting org.apache.commmons.beanutils
+ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper http-nio-8080-exec-223
+      2019-06-14 01:39:36,953 - Table 'mydb.RequestDataPersistent' doesn't exist
+ERROR bytesizebook.guide.ch4 http-nio-8080-exec-223
+      2019-06-14 01:39:36,957 - (invoke) Button method exception
+java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at shared.HelperBaseCh4.invokeButtonMethod(HelperBaseCh4.java:142)
+	at shared.HelperBaseCh4.executeButtonMethod(HelperBaseCh4.java:111)
+	at shared.HelperBaseCh4.executeButtonMethod(HelperBaseCh4.java:87)
+	at ch5.persistentData.ControllerHelper.doPost(ControllerHelper.java:50)
+	at ch5.persistentData.Controller.doPost(Controller.java:37)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:648)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:291)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:239)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.netbeans.modules.web.monitor.server.MonitorFilter.doFilter(MonitorFilter.java:393)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:239)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:217)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:106)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:502)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:142)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:79)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:616)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:88)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:518)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1091)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:673)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1500)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.run(NioEndpoint.java:1456)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.hibernate.exception.SQLGrammarException: Table 'mydb.RequestDataPersistent' doesn't exist
+	at org.hibernate.exception.internal.SQLStateConversionDelegate.convert(SQLStateConversionDelegate.java:122)
+	at org.hibernate.exception.internal.StandardSQLExceptionConverter.convert(StandardSQLExceptionConverter.java:49)
+	at org.hibernate.engine.jdbc.spi.SqlExceptionHelper.convert(SqlExceptionHelper.java:125)
+	at org.hibernate.engine.jdbc.spi.SqlExceptionHelper.convert(SqlExceptionHelper.java:110)
+	at org.hibernate.engine.jdbc.internal.proxy.AbstractStatementProxyHandler.continueInvocation(AbstractStatementProxyHandler.java:129)
+	at org.hibernate.engine.jdbc.internal.proxy.AbstractProxyHandler.invoke(AbstractProxyHandler.java:81)
+	at com.sun.proxy.$Proxy67.executeUpdate(Unknown Source)
+	at org.hibernate.id.IdentityGenerator$GetGeneratedKeysDelegate.executeAndExtract(IdentityGenerator.java:96)
+	at org.hibernate.id.insert.AbstractReturningDelegate.performInsert(AbstractReturningDelegate.java:58)
+	at org.hibernate.persister.entity.AbstractEntityPersister.insert(AbstractEntityPersister.java:2765)
+	at org.hibernate.persister.entity.AbstractEntityPersister.insert(AbstractEntityPersister.java:3276)
+	at org.hibernate.action.internal.EntityIdentityInsertAction.execute(EntityIdentityInsertAction.java:81)
+	at org.hibernate.engine.spi.ActionQueue.execute(ActionQueue.java:362)
+	at org.hibernate.engine.spi.ActionQueue.addResolvedEntityInsertAction(ActionQueue.java:203)
+	at org.hibernate.engine.spi.ActionQueue.addInsertAction(ActionQueue.java:183)
+	at org.hibernate.engine.spi.ActionQueue.addAction(ActionQueue.java:167)
+	at org.hibernate.event.internal.AbstractSaveEventListener.addInsertAction(AbstractSaveEventListener.java:320)
+	at org.hibernate.event.internal.AbstractSaveEventListener.performSaveOrReplicate(AbstractSaveEventListener.java:287)
+	at org.hibernate.event.internal.AbstractSaveEventListener.performSave(AbstractSaveEventListener.java:193)
+	at org.hibernate.event.internal.AbstractSaveEventListener.saveWithGeneratedId(AbstractSaveEventListener.java:126)
+	at org.hibernate.event.internal.DefaultSaveOrUpdateEventListener.saveWithGeneratedOrRequestedId(DefaultSaveOrUpdateEventListener.java:204)
+	at org.hibernate.event.internal.DefaultSaveOrUpdateEventListener.entityIsTransient(DefaultSaveOrUpdateEventListener.java:189)
+	at org.hibernate.event.internal.DefaultSaveOrUpdateEventListener.performSaveOrUpdate(DefaultSaveOrUpdateEventListener.java:114)
+	at org.hibernate.event.internal.DefaultSaveOrUpdateEventListener.onSaveOrUpdate(DefaultSaveOrUpdateEventListener.java:90)
+	at org.hibernate.internal.SessionImpl.fireSaveOrUpdate(SessionImpl.java:641)
+	at org.hibernate.internal.SessionImpl.saveOrUpdate(SessionImpl.java:633)
+	at org.hibernate.internal.SessionImpl.saveOrUpdate(SessionImpl.java:629)
+	at shared.HibernateHelper.updateDB(HibernateHelper.java:144)
+	at ch5.persistentData.ControllerHelper.processMethod(ControllerHelper.java:93)
+	... 35 more
+Caused by: com.mysql.jdbc.exceptions.MySQLSyntaxErrorException: Table 'mydb.RequestDataPersistent' doesn't exist
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:936)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:2934)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:1616)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:1708)
+	at com.mysql.jdbc.Connection.execSQL(Connection.java:3255)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1293)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1566)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1480)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1465)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.hibernate.engine.jdbc.internal.proxy.AbstractStatementProxyHandler.continueInvocation(AbstractStatementProxyHandler.java:122)
+	... 59 more
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-237
+      2019-06-14 01:46:24,192 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-237
+      2019-06-14 01:46:24,192 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-249
+      2019-06-14 01:47:19,972 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-249
+      2019-06-14 01:47:19,972 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-239
+      2019-06-14 01:47:25,795 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-239
+      2019-06-14 01:47:25,795 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-251
+      2019-06-14 01:47:30,348 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-251
+      2019-06-14 01:47:30,348 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-239
+      2019-06-14 01:47:38,332 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-239
+      2019-06-14 01:47:38,332 - Starting org.apache.commmons.beanutils
+ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper http-nio-8080-exec-241
+      2019-06-14 01:48:02,370 - Illegal connection port value 'PORT'
+ERROR bytesizebook.guide.ch4 http-nio-8080-exec-241
+      2019-06-14 01:48:02,373 - (invoke) Button method exception
+java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at shared.HelperBaseCh4.invokeButtonMethod(HelperBaseCh4.java:142)
+	at shared.HelperBaseCh4.executeButtonMethod(HelperBaseCh4.java:111)
+	at shared.HelperBaseCh4.executeButtonMethod(HelperBaseCh4.java:87)
+	at ch5.persistentData.ControllerHelper.doPost(ControllerHelper.java:50)
+	at ch5.persistentData.Controller.doPost(Controller.java:37)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:648)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:291)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:239)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.netbeans.modules.web.monitor.server.MonitorFilter.doFilter(MonitorFilter.java:393)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:239)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:217)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:106)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:502)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:142)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:79)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:616)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:88)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:518)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1091)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:673)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1500)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.run(NioEndpoint.java:1456)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.hibernate.exception.GenericJDBCException: Could not open connection
+	at org.hibernate.exception.internal.StandardSQLExceptionConverter.convert(StandardSQLExceptionConverter.java:54)
+	at org.hibernate.engine.jdbc.spi.SqlExceptionHelper.convert(SqlExceptionHelper.java:125)
+	at org.hibernate.engine.jdbc.spi.SqlExceptionHelper.convert(SqlExceptionHelper.java:110)
+	at org.hibernate.engine.jdbc.internal.LogicalConnectionImpl.obtainConnection(LogicalConnectionImpl.java:304)
+	at org.hibernate.engine.jdbc.internal.LogicalConnectionImpl.getConnection(LogicalConnectionImpl.java:169)
+	at org.hibernate.engine.transaction.internal.jdbc.JdbcTransaction.doBegin(JdbcTransaction.java:67)
+	at org.hibernate.engine.transaction.spi.AbstractTransactionImpl.begin(AbstractTransactionImpl.java:160)
+	at org.hibernate.internal.SessionImpl.beginTransaction(SessionImpl.java:1309)
+	at shared.HibernateHelper.updateDB(HibernateHelper.java:142)
+	at ch5.persistentData.ControllerHelper.processMethod(ControllerHelper.java:93)
+	... 35 more
+Caused by: java.sql.SQLException: Illegal connection port value 'PORT'
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:910)
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:2737)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:1553)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:285)
+	at java.sql.DriverManager.getConnection(DriverManager.java:664)
+	at java.sql.DriverManager.getConnection(DriverManager.java:208)
+	at org.hibernate.service.jdbc.connections.internal.DriverManagerConnectionProviderImpl.getConnection(DriverManagerConnectionProviderImpl.java:173)
+	at org.hibernate.internal.AbstractSessionImpl$NonContextualJdbcConnectionAccess.obtainConnection(AbstractSessionImpl.java:279)
+	at org.hibernate.engine.jdbc.internal.LogicalConnectionImpl.obtainConnection(LogicalConnectionImpl.java:297)
+	... 41 more
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-258
+      2019-06-14 01:48:35,913 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-258
+      2019-06-14 01:48:35,913 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-246
+      2019-06-14 01:48:39,796 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-246
+      2019-06-14 01:48:39,796 - Starting org.apache.commmons.beanutils
+ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper http-nio-8080-exec-259
+      2019-06-14 01:49:03,251 - Table 'mydb.RequestDataPersistent' doesn't exist
+ERROR bytesizebook.guide.ch4 http-nio-8080-exec-259
+      2019-06-14 01:49:03,254 - (invoke) Button method exception
+java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at shared.HelperBaseCh4.invokeButtonMethod(HelperBaseCh4.java:142)
+	at shared.HelperBaseCh4.executeButtonMethod(HelperBaseCh4.java:111)
+	at shared.HelperBaseCh4.executeButtonMethod(HelperBaseCh4.java:87)
+	at ch5.persistentData.ControllerHelper.doPost(ControllerHelper.java:50)
+	at ch5.persistentData.Controller.doPost(Controller.java:37)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:648)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:291)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:239)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.netbeans.modules.web.monitor.server.MonitorFilter.doFilter(MonitorFilter.java:393)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:239)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:217)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:106)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:502)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:142)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:79)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:616)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:88)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:518)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1091)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:673)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1500)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.run(NioEndpoint.java:1456)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.hibernate.exception.SQLGrammarException: Table 'mydb.RequestDataPersistent' doesn't exist
+	at org.hibernate.exception.internal.SQLStateConversionDelegate.convert(SQLStateConversionDelegate.java:122)
+	at org.hibernate.exception.internal.StandardSQLExceptionConverter.convert(StandardSQLExceptionConverter.java:49)
+	at org.hibernate.engine.jdbc.spi.SqlExceptionHelper.convert(SqlExceptionHelper.java:125)
+	at org.hibernate.engine.jdbc.spi.SqlExceptionHelper.convert(SqlExceptionHelper.java:110)
+	at org.hibernate.engine.jdbc.internal.proxy.AbstractStatementProxyHandler.continueInvocation(AbstractStatementProxyHandler.java:129)
+	at org.hibernate.engine.jdbc.internal.proxy.AbstractProxyHandler.invoke(AbstractProxyHandler.java:81)
+	at com.sun.proxy.$Proxy89.executeUpdate(Unknown Source)
+	at org.hibernate.id.IdentityGenerator$GetGeneratedKeysDelegate.executeAndExtract(IdentityGenerator.java:96)
+	at org.hibernate.id.insert.AbstractReturningDelegate.performInsert(AbstractReturningDelegate.java:58)
+	at org.hibernate.persister.entity.AbstractEntityPersister.insert(AbstractEntityPersister.java:2765)
+	at org.hibernate.persister.entity.AbstractEntityPersister.insert(AbstractEntityPersister.java:3276)
+	at org.hibernate.action.internal.EntityIdentityInsertAction.execute(EntityIdentityInsertAction.java:81)
+	at org.hibernate.engine.spi.ActionQueue.execute(ActionQueue.java:362)
+	at org.hibernate.engine.spi.ActionQueue.addResolvedEntityInsertAction(ActionQueue.java:203)
+	at org.hibernate.engine.spi.ActionQueue.addInsertAction(ActionQueue.java:183)
+	at org.hibernate.engine.spi.ActionQueue.addAction(ActionQueue.java:167)
+	at org.hibernate.event.internal.AbstractSaveEventListener.addInsertAction(AbstractSaveEventListener.java:320)
+	at org.hibernate.event.internal.AbstractSaveEventListener.performSaveOrReplicate(AbstractSaveEventListener.java:287)
+	at org.hibernate.event.internal.AbstractSaveEventListener.performSave(AbstractSaveEventListener.java:193)
+	at org.hibernate.event.internal.AbstractSaveEventListener.saveWithGeneratedId(AbstractSaveEventListener.java:126)
+	at org.hibernate.event.internal.DefaultSaveOrUpdateEventListener.saveWithGeneratedOrRequestedId(DefaultSaveOrUpdateEventListener.java:204)
+	at org.hibernate.event.internal.DefaultSaveOrUpdateEventListener.entityIsTransient(DefaultSaveOrUpdateEventListener.java:189)
+	at org.hibernate.event.internal.DefaultSaveOrUpdateEventListener.performSaveOrUpdate(DefaultSaveOrUpdateEventListener.java:114)
+	at org.hibernate.event.internal.DefaultSaveOrUpdateEventListener.onSaveOrUpdate(DefaultSaveOrUpdateEventListener.java:90)
+	at org.hibernate.internal.SessionImpl.fireSaveOrUpdate(SessionImpl.java:641)
+	at org.hibernate.internal.SessionImpl.saveOrUpdate(SessionImpl.java:633)
+	at org.hibernate.internal.SessionImpl.saveOrUpdate(SessionImpl.java:629)
+	at shared.HibernateHelper.updateDB(HibernateHelper.java:144)
+	at ch5.persistentData.ControllerHelper.processMethod(ControllerHelper.java:93)
+	... 35 more
+Caused by: com.mysql.jdbc.exceptions.MySQLSyntaxErrorException: Table 'mydb.RequestDataPersistent' doesn't exist
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:936)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:2934)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:1616)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:1708)
+	at com.mysql.jdbc.Connection.execSQL(Connection.java:3255)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1293)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1566)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1480)
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:1465)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.hibernate.engine.jdbc.internal.proxy.AbstractStatementProxyHandler.continueInvocation(AbstractStatementProxyHandler.java:122)
+	... 59 more
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-262
+      2019-06-14 01:52:56,831 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-262
+      2019-06-14 01:52:56,831 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-263
+      2019-06-14 01:53:37,094 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-263
+      2019-06-14 01:53:37,094 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-272
+      2019-06-14 01:53:47,272 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-272
+      2019-06-14 01:53:47,272 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-278
+      2019-06-14 01:55:26,239 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-278
+      2019-06-14 01:55:26,239 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-280
+      2019-06-14 01:59:37,370 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-280
+      2019-06-14 01:59:37,370 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-286
+      2019-06-14 02:00:07,274 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-286
+      2019-06-14 02:00:07,274 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-288
+      2019-06-14 02:00:57,236 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-288
+      2019-06-14 02:00:57,236 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-290
+      2019-06-14 02:01:18,088 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-290
+      2019-06-14 02:01:18,088 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-292
+      2019-06-14 02:02:06,155 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-292
+      2019-06-14 02:02:06,155 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-287
+      2019-06-14 02:03:32,067 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-287
+      2019-06-14 02:03:32,067 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-298
+      2019-06-14 02:12:46,889 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-298
+      2019-06-14 02:12:46,889 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-298
+      2019-06-14 02:12:52,127 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-298
+      2019-06-14 02:12:52,127 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-309
+      2019-06-14 02:13:05,993 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-309
+      2019-06-14 02:13:05,993 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-300
+      2019-06-14 02:15:11,251 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-300
+      2019-06-14 02:15:11,251 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-316
+      2019-06-14 02:20:27,020 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-316
+      2019-06-14 02:20:27,020 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-320
+      2019-06-14 02:20:34,718 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-320
+      2019-06-14 02:20:34,718 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-328
+      2019-06-14 02:20:49,827 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-328
+      2019-06-14 02:20:49,827 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-331
+      2019-06-14 02:22:56,378 - Starting org.apache.commmons.beanutils
+INFO  org.apache.commmons.beanutils http-nio-8080-exec-331
+      2019-06-14 02:22:56,378 - Starting org.apache.commmons.beanutils

@@ -72,4 +72,111 @@
         <servlet-name>Ch3ReorganisedController</servlet-name>
         <url-pattern>/ch3/reorganised/Controller</url-pattern>
     </servlet-mapping>
+    
+    <servlet>
+        <servlet-name>Ch4InitLog4j</servlet-name>
+        <servlet-class>shared.InitLog4j</servlet-class>
+        <init-param>
+            <param-name>logPath</param-name>
+            <param-value>/WEB-INF/logs/error.ch4.log</param-value>
+        </init-param>
+        <load-on-startup>1</load-on-startup>
+    </servlet>
+    
+    <servlet>
+        <servlet-name>Ch4EnhancedController</servlet-name>
+        <servlet-class>ch4.enhanced.Controller</servlet-class>
+        <init-param>
+            <param-name>logName</param-name>
+            <param-value>bytesizebook.guide.ch4</param-value>
+        </init-param>
+        <init-param>
+            <param-name>logLevel</param-name>
+            <param-value>INFO</param-value>
+        </init-param>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Ch4EnhancedController</servlet-name>
+        <url-pattern>/ch4/enhanced/Controller</url-pattern>
+    </servlet-mapping>
+    
+    <servlet>
+        <servlet-name>Ch5RequiredValidationController</servlet-name>
+        <servlet-class>ch5.requiredValidation.Controller</servlet-class>
+        <init-param>
+            <param-name>logName</param-name>
+            <param-value>bytesizebook.guide.ch4</param-value>
+        </init-param>
+        <init-param>
+            <param-name>logLevel</param-name>
+            <param-value>INFO</param-value>
+        </init-param>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Ch5RequiredValidationController</servlet-name>
+        <url-pattern>/ch5/requiredValidation/Controller</url-pattern>
+    </servlet-mapping>
+    
+    <servlet>
+        <servlet-name>Ch5PostServletController</servlet-name>
+        <servlet-class>ch5.postServlet.Controller</servlet-class>
+        <init-param>
+            <param-name>logName</param-name>
+            <param-value>bytesizebook.guide.ch4</param-value>
+        </init-param>
+        <init-param>
+            <param-name>logLevel</param-name>
+            <param-value>INFO</param-value>
+        </init-param>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Ch5PostServletController</servlet-name>
+        <url-pattern>/ch5/postServlet/Controller</url-pattern>
+    </servlet-mapping>
+    
+    <listener>
+      <listener-class>shared.WebappListener</listener-class>
+   </listener>
+   
+   <servlet>
+        <servlet-name>Ch5PersistentDataController</servlet-name>
+        <servlet-class>ch5.persistentData.Controller</servlet-class>
+        <init-param>
+            <param-name>create</param-name>
+            <param-value>false</param-value>
+        </init-param>
+        <init-param>
+            <param-name>logName</param-name>
+            <param-value>bytesizebook.guide.ch4</param-value>
+        </init-param>
+        <init-param>
+            <param-name>logLevel</param-name>
+            <param-value>INFO</param-value>
+        </init-param>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Ch5PersistentDataController</servlet-name>
+        <url-pattern>/ch5/persistentData/Controller</url-pattern>
+    </servlet-mapping>
+    
+    <servlet>
+        <servlet-name>Ch5PersistentDataConfigureController</servlet-name>
+        <servlet-class>ch5.persistentData.configure.Controller</servlet-class>
+        <init-param>
+            <param-name>create</param-name>
+            <param-value>false</param-value>
+        </init-param>
+        <init-param>
+            <param-name>logName</param-name>
+            <param-value>bytesizebook.guide.ch4</param-value>
+        </init-param>
+        <init-param>
+            <param-name>logLevel</param-name>
+            <param-value>INFO</param-value>
+        </init-param>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Ch5PersistentDataConfigureController</servlet-name>
+        <url-pattern>/ch5/persistentData/configure/Controller</url-pattern>
+    </servlet-mapping>
 </web-app>

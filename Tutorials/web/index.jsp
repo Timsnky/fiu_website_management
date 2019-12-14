@@ -40,7 +40,22 @@ and open the template in the editor.
                         <li><a href="ch3/sharedVariable/Controller">Shared Variable</a></li>
                         <li><a href="ch3/reorganised/Controller">Reorganised</a></li>
                     </ul>
-                </li>  
+                </li> 
+                <li>
+                    Chapter 4
+                    <ul>
+                        <li><a href="ch4/enhanced/Controller">Adding a Logger</a></li>
+                    </ul>
+                </li> 
+                <li>
+                    Chapter 5
+                    <ul>
+                        <li><a href="ch5/requiredValidation/Controller">Required Validation</a></li>
+                        <li><a href="ch5/postServlet/Controller">Post</a></li>
+                        <li><a href="ch5/persistentData/Controller">Persistent Data</a></li>
+                        <li><a href="ch5/persistentData/configure/Controller">Persistent Data Configure</a></li>
+                    </ul>
+                </li> 
             </ul>
         </div>
     </body>
